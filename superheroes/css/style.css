@@ -1,0 +1,114 @@
+* {
+margin: 25;
+padding: 10;
+}
+
+body {
+background-color: antiquewhite;
+}
+
+div {
+  color: #282B8E;
+}
+.wonder-woman {
+  border-style: groove;
+  border-radius: 15px;
+  margin: 10px 25px;
+  padding: 0px 10px;
+  background: rgb(238,174,202);
+background: linear-gradient(180deg, rgba(238,174,202,1) 0%, rgba(148,187,233,0.29597776610644255) 100%);
+}
+.wonder-woman h2 {
+  margin:auto;
+  text-align: center;
+  color: rgb(244, 211, 127);
+  border-style: ridge;
+  border-width: 7px;
+  margin: auto;
+  background-color:cornflowerblue;
+}
+.wonder-woman p {
+  color: cornflowerblue;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+}
+
+.superman{
+  background-color:dodgerblue;
+  border-style: hidden;
+  border-radius: 15px;
+  border-color:dodgerblue; 
+  padding: 10px;
+}
+.superman h2 {
+  border: 5px;
+  border-style: double;
+  background-color: gold;
+  border-width: 13px;
+  text-align: center;
+  color: crimson;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.superman p {
+  color: aliceblue;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.spiderman {
+  color: black;
+  font-style: italic;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: 5px;
+  border-style: dashed;
+  padding: 10px;
+  background-color: lightskyblue
+
+}
+.spiderman h2 {
+  color:aliceblue;
+  background-color: crimson; 
+  border-radius: 10px;
+  border-style: hidden;
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+  font-style: normal;
+}
+.spiderman p {
+  padding: 5px;
+  color:aliceblue;
+}
+
+.iron-man {
+border-color: goldenrod;
+border-style: double;
+border-radius: 25px;
+background-color: darkred;
+color: cornsilk;
+padding: 25px;
+margin: 25px;
+}
+.iron-man h2 {
+  font-weight: 700;
+  text-align: left;
+}
+.iron-man p {
+  font-weight: 300;
+}
+.thor {
+ background-color:ghostwhite;
+ border-style: solid ;
+ border-radius: 13px;
+ padding: 12px;
+ margin: 12px;
+ border-color: goldenrod ;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.thor h2 {
+  margin: 10px;
+  font-weight: 100;
+  text-align: center;
+}
+.thor p {
+  margin: 10px;
+  font-style: italic;
+}

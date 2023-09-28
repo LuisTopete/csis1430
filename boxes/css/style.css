@@ -14,7 +14,7 @@
   background-color: antiquewhite;
   overflow: hidden;
 }
-/* the Circle is being used as the head as well as the eyes */
+/* the Circle is being used as the head as well as the eyes and pupils */
 .foxhead {
   left: 140px;
   border-radius: 50%;
